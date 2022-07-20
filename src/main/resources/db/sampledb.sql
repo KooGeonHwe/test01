@@ -115,4 +115,6 @@ INSERT INTO SAMPLE VALUES('SAMPLE-00111','Runtime Environment','Integration Laye
 INSERT INTO SAMPLE VALUES('SAMPLE-00112','Runtime Environment','Integration Layer','Y','eGov')
 INSERT INTO SAMPLE VALUES('SAMPLE-00113','Runtime Environment','Integration Layer','Y','eGov')
 INSERT INTO SAMPLE VALUES('SAMPLE-00114','Runtime Environment','Integration Layer','Y','eGov')
+INSERT INTO SAMPLE VALUES('SAMPLE-00115','Runtime Environment','Integration Layer','Y','eGov')
+INSERT INTO SAMPLE VALUES('안녕하세요', '안녕하십니까', '안녕', 'N', '안니엉')
 INSERT INTO IDS VALUES('SAMPLE',115)

@@ -86,6 +86,7 @@ public interface SampleMapper {
 	 * @return 글 총 갯수
 	 * @exception
 	 */
+	
 	int selectSampleListTotCnt(SampleDefaultVO searchVO);
 
 }
